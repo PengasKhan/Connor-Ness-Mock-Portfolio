@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  font-family: "Comic Sans MS", "Comic Sans", "Papyrus", sans-serif;
+  flex-direction: column;
+}
+
+header {
+  padding: 40px;
+  text-align: left;
+  background: #111;
+  color: whitesmoke;
+}
+
+nav {
+  display: flex;
+}
+
+main {
+  max-width: 98%;
+}
+
+.application {
+  max-width: 500px;
+}
+
+.application :hover {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  header,
+  body,
+  footer {
+    flex-direction: column;
+  }
+
+  main {
+    max-width: 1200px;
+  }
+}
