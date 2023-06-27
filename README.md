@@ -16,6 +16,6 @@ Book1 Photo by <a href="https://unsplash.com/@studiomediainc?utm_source=unsplash
 
 Coaster1 Photo by <a href="https://unsplash.com/@supergios?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonny Gios</a> on <a href="https://unsplash.com/photos/M6sDLz3MCmE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-[Link to live page]()
+[Link to live page](https://pengaskhan.github.io/Connor-Ness-Mock-Portfolio/)
 
-![screenshot of live page]()
+![screenshot of live page](./assets/images/Live%20Page.png)
